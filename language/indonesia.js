@@ -19,7 +19,7 @@ exports.menu = async (alpha, thumbnail, pushname, OWNER_NAME, OWNER, prefix, hit
 
 ╭─❒ 「 Bot Info 」 
 ├ Creator :  [@${OWNER_NAME}](${OWNER[0]})
-├ Sponsored :  [@BotFather](https://t.me/BotFather)
+├ Sponsored :  @zeeoneofc
 ├ Prefix :   ${prefix}
 ├ Total hit : ${hitall}
 ├ Speed : ${latensii.toFixed(4)} Second
@@ -215,27 +215,7 @@ exports.asupancmd = async (alpha, thumbnail, user_id) => {
         }, ]
     ]
     var caption = `╭─❒ 「 ASUPAN 」 
-» /chika
-» /rikagusriani
-» /bocil
-» /geayubi
-» /santuy
-» /ukhty
-» /asupan
-» /delvira
-» /ayu
-» /bunga
-» /aura
-» /nisa
-» /ziva
-» /yana
-» /viona
-» /syania
-» /riri
-» /syifa
-» /mama-gina
-» /alcakenya
-» /mangayutri
+TOBAT BANG
 ╰──────────◇
 `
     await alpha.editMessageMedia({
@@ -269,17 +249,8 @@ exports.cecancmd = async (alpha, thumbnail, user_id) => {
         }, ]
     ]
     var caption = `╭─❒ 「 CECAN 」 
-» /china
-» /indonesia
-» /malaysia
-» /thailand
-» /korea
-» /japan
-» /vietnam
-» /jenni
-» /jiiso
-» /lisa
-» /rose
+TOBAT BANG
+
 ╰──────────◇
 `
     await alpha.editMessageMedia({
@@ -313,24 +284,7 @@ exports.cogancmd = async (alpha, thumbnail, user_id) => {
         }, ]
     ]
     var caption = `╭─❒ 「 COGAN 」 
-» /wuyifan
-» /suga
-» /parkchanyeol
-» /ohsehun
-» /luhan
-» /kimtaehyung
-» /kimseok
-» /kimnanjoon
-» /kimminseok
-» /kimjunmyeon
-» /kimjong
-» /kimjondae
-» /jungkook
-» /jimin
-» /jhope
-» /huangzitao
-» /dohkyungsoo
-» /baekhyung
+TOBAT KAK
 ╰──────────◇
 `
     await alpha.editMessageMedia({
@@ -732,75 +686,7 @@ exports.nsfwcmd = async (alpha, thumbnail, user_id) => {
         }, ]
     ]
     var caption = `╭─❒ 「 NSFW & SFW 」 
-» /baka
-» /smug
-» /neko-sfw
-» /hentai-gif
-» /spank
-» /blowjob
-» /cumarts
-» /eroyuri
-» /eroneko
-» /erokemonomimi
-» /erokitsune
-» /ero
-» /feet
-» /erofeet
-» /feetgif
-» /femdom
-» /futanari
-» /hentai
-» /holoero
-» /holo
-» /keta
-» /kitsune
-» /kemonomimi
-» /pussyart
-» /pussywankgif
-» /girl-solo
-» /girl-solo-gif
-» /tits
-» /trap
-» /yuri
-» /avatar2
-» /anal
-» /bj
-» /boobs
-» /classic
-» /cumsluts
-» /kuni
-» /lesbian
-» /neko
-» /neko-gif
-» /ahegao
-» /bdsm
-» /cuckold
-» /cum
-» /foot
-» /gangbang
-» /glasses
-» /jahy
-» /masturbation
-» /nsfw-neko
-» /orgy
-» /panties
-» /tentacles
-» /thighs
-» /zettai
-» /cuddle
-» /foxgirl
-» /kemonomimi2
-» /woof
-» /holo2
-» /hug
-» /kiss
-» /lizard
-» /meowi
-» /neko2
-» /pat
-» /poke
-» /slap
-» /tickle
+» TOBAT YUK
 ╰──────────◇
 `
     await alpha.editMessageMedia({
@@ -833,7 +719,7 @@ exports.photooxycmd = async (alpha, thumbnail, user_id) => {
             callback_data: 'owner ' + user_id
         }, ]
     ]
-    var caption = `╭─❒ 「 NSFW & SFW 」 
+    var caption = `╭─❒ 「 PHOTO OXY 」 
 » /typography-flower
 » /under-flower
 » /bevel-text
